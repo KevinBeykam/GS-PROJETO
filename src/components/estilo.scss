@@ -1,0 +1,55 @@
+// estilo.scss
+.home-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: white; /* Adicione a cor desejada aqui */
+  }
+  
+
+.home-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .box-section {
+    margin: 20px;
+    padding: 20px;
+    border: 2px solid #000;
+    border-radius: 10px;
+    background-color: darkcyan;
+  }
+  
+  .box-title {
+    
+    color: #fff;
+    padding: 10px;
+    border-radius: 5px 5px 0 0;
+  }
+  
+  .box-content {
+    padding: 10px;
+  }
+  
+  .header {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    background-color: white;
+    color:black;
+    padding: 10px;
+    border-radius: 5px;
+  }
+  
+  .logout-button {
+    cursor: pointer;
+    background-color: #e74c3c;
+    color: #fff;
+    border: none;
+    padding: 10px 10px;
+    border-radius: 4px;
+  }
+  
+  // Adicione outros estilos conforme necessário
+  

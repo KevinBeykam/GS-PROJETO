@@ -1,0 +1,52 @@
+// Login.scss
+body {
+  background-color: #aaf0e5; /* Cor verde-água para o fundo da página */
+  margin: 0; /* Remover margens padrão do body */
+}
+
+.login-container {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+  
+
+  }
+  
+.login-content {
+  background-color: #fde3e3; /* Tom suave de rosa claro */
+  border: 1px solid #ccc;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  border-radius: 8px; /* Bordas mais arredondadas */
+  padding: 15px;
+  max-width: 400px; /* Aumentar o tamanho da box */
+  width: 100%;
+  text-align: center;
+  margin: auto; /* Centralizar a box horizontalmente */
+
+  h1 {
+    color: #ff6b6b; /* Cor mais intensa para o título */
+    margin-bottom: 20px; /* Mais espaço abaixo do título */
+  }
+
+  input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    box-sizing: border-box; /* Garante que o padding não aumente o tamanho total do campo */
+  }
+
+  button {
+    width: 100%;
+    background-color: #ff6b6b; /* Cor mais intensa para o botão */
+    color: #fff;
+    padding: 10px;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+  }
+}
