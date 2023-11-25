@@ -26,7 +26,7 @@ const Home = () => {
       <div className="box-section">
         <h2 className="section-title">A solução</h2>
         <p className="section-text">
-          O projeto visa criar um sistema simples para o gerenciamento de dados de saúde, utilizando conceitos de prevenção, automação e precisão. A aplicação é destinada a estudantes da FIAP, desafiando-os a criar soluções inovadoras que possam moldar o futuro da saúde.
+        A solução para a Meta 3.1 dos ODS visa reduzir a taxa de mortalidade materna global para menos de 70 mortes por 100.000 nascidos vivos até 2030. Esta meta faz parte do compromisso global de melhorar a saúde materna e alcançar um desenvolvimento sustentável.
         </p>
       </div>
 
@@ -37,7 +37,18 @@ const Home = () => {
           Registro de Dados de Saúde:
           <ul>
             <li>Os usuários podem registrar informações pessoais, como nome e idade.</li>
-            <li>Podem inserir registros específicos relacionados à saúde.</li>
+            <li>Podem inserir registros específicos relacionados à saúde.Intervenções em Saúde Materna:
+
+Implementará medidas abrangentes para melhorar a saúde das mulheres durante a gravidez, parto e pós-parto. Isso pode envolver a promoção de cuidados pré-natais, garantia de parto seguro e acesso a serviços médicos de qualidade.
+Educação e Conscientização:
+
+Desenvolverá programas educacionais para mulheres, famílias e profissionais de saúde, visando aumentar a conscientização sobre práticas seguras de maternidade, nutrição adequada e sinais de complicações obstétricas.
+Acesso Equitativo a Serviços de Saúde:
+
+Trabalhará para eliminar disparidades no acesso aos serviços de saúde materna, garantindo que todas as mulheres, independentemente de sua localização geográfica ou condição socioeconômica, tenham acesso a cuidados essenciais.
+Fortalecimento de Infraestruturas de Saúde:
+
+Investirá na construção e manutenção de instalações médicas adequadas, treinamento de profissionais de saúde e fornecimento de recursos necessários para oferecer serviços de qualidade.</li>
           </ul>
         </p>
 
@@ -62,7 +73,18 @@ const Home = () => {
         <p className="section-text">
           Menu de Opções:
           <ul>
-            <li>Ao executar o programa, os usuários são apresentados a um menu com opções, como registrar dados, consultar registros, realizar análises e sair do programa.</li>
+            <li>Ao executar o programa, os usuários são apresentados a um menu com opções, como registrar dados, consultar registros, realizar análises e sair do programa.Implementação de Políticas Governamentais:
+
+Os governos desempenharão um papel crucial na implementação de políticas que promovam a saúde materna. Isso pode incluir legislação para garantir a qualidade dos serviços de saúde e o direito ao atendimento materno.
+Parcerias Internacionais:
+
+Cooperação entre países, organizações não governamentais e setor privado para compartilhar recursos, conhecimentos e melhores práticas na área de saúde materna.
+Monitoramento e Avaliação Contínuos:
+
+Estabelecimento de sistemas robustos de monitoramento e avaliação para rastrear o progresso em direção à meta. Isso envolverá a coleta regular de dados sobre mortalidade materna, análise de tendências e ajustes nas estratégias conforme necessário.
+Envolvimento Comunitário:
+
+Promoção do envolvimento ativo das comunidades na promoção da saúde materna. Isso pode incluir programas de conscientização liderados pela comunidade e a criação de redes de apoio.</li>
           </ul>
 
           Registro de Dados:
